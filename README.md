@@ -2,6 +2,7 @@
 
 - Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. 
 - some groups of people were more likely to survive than others, such as women, children, and the upper-class.
+- dataset https://www.kaggle.com/c/titanic/data
 
 ## Distribution of numerical feature values across the training dataset
 
